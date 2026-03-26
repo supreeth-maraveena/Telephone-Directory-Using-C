@@ -15,8 +15,7 @@ It demonstrates core programming concepts such as:
 - 🔍 Search for existing contacts  
 - ✏️ Update contact details  
 - ❌ Delete contacts  
-- 📋 Display all saved contacts  
-- 💾 Persistent storage using files (data is retained after program exit)
+- 📋 Display all saved contacts
 
 ---
 
@@ -78,14 +77,5 @@ Telephone-Directory-Using-C/
 ```
 
 ---
-
-## 🚀 Future Improvements (Optional Ideas)
-- Add sorting (alphabetical order)  
-- Implement duplicate prevention  
-- Add GUI interface  
-- Use advanced data structures (BST / Hash Table)  
-
----
-
 ## 📄 License
 This project is open-source and available for educational purposes.
